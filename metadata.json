@@ -1,0 +1,6 @@
+{
+  "name": "Книжная мастерская: PDF в EPUB 3",
+  "description": "Клиентский конвертер PDF в качественные книги EPUB 3 с поддержкой OCR, русско-украинской типографики и мобильных экранов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
