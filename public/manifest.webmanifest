@@ -1,0 +1,35 @@
+{
+  "name": "Книжная мастерская: PDF в EPUB 3",
+  "short_name": "Книжная мастерская",
+  "description": "Преобразование PDF-книг в качественные файлы EPUB 3 с поддержкой OCR, русско-украинской типографики и комфортного чтения.",
+  "lang": "ru",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fcfbf7",
+  "theme_color": "#fcfbf7",
+  "prefer_related_applications": false,
+  "categories": ["books", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
